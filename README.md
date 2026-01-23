@@ -54,9 +54,9 @@
         </a>
       </td>
       <td align="center" width="50%">
-        <h3><a href="https://github.com/PowerCmptr/PrintPal">LAGGY</a></h3>
+        <h3><a href="https://github.com/PowerCmptr/PrintPal">PrintPal</a></h3>
         <p>Anycubic Kobra 2 neo frontend</p>
-        <a href="https://github.com/PowerCmptr/LAGGY">
+        <a href="https://github.com/PowerCmptr/PrintPal">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=PowerCmptr&repo=PrintPal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
         </a>
       </td>
