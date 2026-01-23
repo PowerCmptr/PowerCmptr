@@ -57,7 +57,7 @@
         <h3><a href="https://github.com/PowerCmptr/LAGGY">LAGGY</a></h3>
         <p>Network latency testing tool</p>
         <a href="https://github.com/PowerCmptr/LAGGY">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PowerCmptr&repo=LAGGY&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=PowerCmptr&repo=PrintPal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
         </a>
       </td>
     </tr>
