@@ -53,7 +53,7 @@
 **Tech:** PHP, Terminal Emulation  
 **Stars:** Not enough :p
 
-<a href="https://git.the-wired.eu/Cyan/PHPterm" target="_blank" rel="noreferrer">
+<a href="https://git.the-wired.eu/Cyan/PHP-term" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40">
   </a>
 
@@ -139,13 +139,13 @@ Learning how to break things (ethically) to build better things
 
 <div style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); padding: 20px; border-radius: 12px; max-width: 400px; margin: 0 auto;">
 <p style="color: white; font-weight: bold; margin: 0 0 15px 0;">
-Fuel more late-night coding sessions
+<br>
 </p>
-<a href="https://www.buymeacoffee.com/PowerPC">
+<a href="https://buymeacoffee.com/cyanes">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="180" alt="Buy Me A Coffee">
 </a>
 <p style="color: rgba(255,255,255,0.8); font-size: 0.9em; margin: 10px 0 0 0;">
-Every coffee = one less bug in production (probably)
+<br>
 </p>
 </div>
 
